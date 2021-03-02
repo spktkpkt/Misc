@@ -1,0 +1,21 @@
+[saved_state]
+volume = 100
+shuffle = true
+[theme]
+background = "white"
+primary = "black"
+secondary = "black"
+title = "black"
+playing = "blue"
+playing_selected = "white"
+playing_bg = "white"
+highlight = "white"
+highlight_bg = "blue"
+error = "white"
+error_bg = "red"
+statusbar = "black"
+statusbar_progress = "blue"
+statusbar_bg = "white"
+cmdline = "black"
+cmdline_bg = "white"
+
